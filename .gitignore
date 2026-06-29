@@ -11,6 +11,7 @@ surefire-reports/
 failsafe-reports/
 ExtentReports/
 Screenshots/
+/src/test/resources/config.properties
 
 # IDE files
 .idea/
